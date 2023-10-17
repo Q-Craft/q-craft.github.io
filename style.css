@@ -448,7 +448,7 @@ div#links:hover {
 }
 
 #title::after {
-  content: "NYC Roleplay Community";
+  content: "Quest Craft";
 }
 
 @media screen and (max-height: 450px) {
